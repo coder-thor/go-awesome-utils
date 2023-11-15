@@ -1,4 +1,4 @@
-package pagination
+package ginUtils
 
 import (
 	"strconv"
